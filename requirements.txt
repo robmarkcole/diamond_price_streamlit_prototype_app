@@ -1,3 +1,6 @@
 xgboost
 sklearn
 pandas
+matplotlib
+seaborn
+jupyter
